@@ -107,3 +107,5 @@ to StGit.
 StGit is maintained by Catalin Marinas and Peter Grayson.
 
 For a complete list of StGit's authors, see [`AUTHORS.md`](AUTHORS.md).
+
+Fake change.
